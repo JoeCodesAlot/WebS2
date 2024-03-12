@@ -77,7 +77,14 @@ height:auto;
   display: block;
 }
 
-.content{
+.intro{
+  font-weight: bold;    
+  display: block;
+  background-color: red;
   margin:auto;
   border: 1px, solid black;
+}
+ .dropdown span{
+  background-color: #111;
+color: white;
 }
